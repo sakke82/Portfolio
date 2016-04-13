@@ -26,6 +26,6 @@ http://sakke82.github.io/DDP/BMI_slidify/index.html
 Link to course site: https://www.coursera.org/learn/data-products
 
 
-Web dev: HTML, CSS, JavaScript, Bootstarp  
+Web dev: HTML, CSS, JavaScript, Bootstrap  
 http://sakke82.github.io/jhu-webdev/module_4/index.html  
 Link to course site: https://www.coursera.org/learn/html-css-javascript-for-web-developers
